@@ -87,6 +87,18 @@ body{
     line-height: 40px;
 }
 /* player section end*/
+hr{
+        padding: 0px;
+        margin: 60px;    
+}
+
+/* memory section start */
+.memory-text{
+    text-align: center;
+    font-size: 50px;
+}
+
+/* memory section start */
 
 /* footer start */
 .footer-detail {
