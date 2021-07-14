@@ -88,8 +88,11 @@ body{
 }
 /* player section end*/
 hr{
-        padding: 0px;
-        margin: 60px;    
+        padding: 5px;
+        margin-top: 30px;
+        border-radius: 10px;
+        background-color: #4881fd;
+        
 }
 
 /* memory section start */
@@ -99,6 +102,15 @@ hr{
 }
 
 /* memory section start */
+
+/* slide news section start */
+.news-text{
+    text-align: left;
+    font-size: 18px;
+    padding: 5px 0px 5px 19px;
+    background-color: rgb(228, 228, 220);
+}
+/* slide news section end */
 
 /* footer start */
 .footer-detail {
