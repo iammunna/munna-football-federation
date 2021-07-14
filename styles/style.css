@@ -109,6 +109,10 @@ hr{
     font-size: 18px;
     padding: 5px 0px 5px 19px;
     background-color: rgb(228, 228, 220);
+    color: #4881fd;
+}
+.news-slide{
+    color: black;
 }
 /* slide news section end */
 
